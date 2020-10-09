@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.madlevel4task2.Data.Game
 import com.example.madlevel4task2.Data.GameAdapter
 import com.example.madlevel4task2.Data.GameRepository
-import kotlinx.android.synthetic.main.fragment_history.*
+import kotlinx.android.synthetic.main.activity_history.*
 
 class HistoryActivity : AppCompatActivity() {
     private lateinit var gameRepository: GameRepository
