@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mad Level 4 Task 2</string>
+    <string name="title_historyActivity">Your Game History</string>
+
+    <string name="tvTitle">Welcome</string>
+    <string name="tvInstructions">Instructions: select rock, paper or scissors to play</string>
+    <string name="tvStatisticsTitle">Your all time statistics</string>
+    <string name="tvWinStatistic">Win: %d</string>
+    <string name="tvDrawStatistic">Draw: %d</string>
+    <string name="tvLoseStatistic">Lose: %d</string>
+    <string name="tvComputer">Computer</string>
+    <string name="tvYou">You</string>
+    <string name="tvVS">V.S.</string>
+</resources>
